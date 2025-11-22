@@ -1,13 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B541F0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+account!;If+you+want+to+know+more+about+me%2C+visit+YouthGeekers.com)](https://youthgeekers.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=B541F0&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+account!;If+you+want+to+know+more+about+me%2C+visit+YouthGeekers.com)](https://youthgeekers.com)
 
 ---
 ### 🏷️ Badges
 ![Founder](https://img.shields.io/badge/Founder-Youth%20Geekers-blueviolet?style=for-the-badge)
 ![Role](https://img.shields.io/badge/Game%20Developer-%F0%9F%8E%AE-ff69b4?style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=3omartn&color=blueviolet)
-
 
 ---
 
@@ -23,13 +22,9 @@
 
 ---
 
-
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=3omartn&theme=react-dark)
+
 ---
-
-### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3omartn&layout=compact&theme=tokyonight)
-
 
 </div>
