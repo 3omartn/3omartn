@@ -8,11 +8,6 @@
 ![Role](https://img.shields.io/badge/Game%20Developer-%F0%9F%8E%AE-ff69b4?style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=3omartn&color=blueviolet)
 
----
-
-### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3omartn&layout=compact&theme=tokyonight)
-
 
 ---
 
@@ -31,4 +26,10 @@
 
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=3omartn&theme=react-dark)
+---
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3omartn&layout=compact&theme=tokyonight)
+
+
 </div>
